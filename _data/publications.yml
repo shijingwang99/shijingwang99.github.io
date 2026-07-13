@@ -8,10 +8,10 @@ selected:
 
   - title: "VL4Gaze: Unleashing Vision-Language Models for Gaze Following"
     authors: <strong>Shijing Wang*</strong>, Chaoqun Cui*, Yaping Huang, Hyung Jin Chang, Yihua Cheng
-    venue: ECCV 2026 submission
+    venue: IEEE TMM submission
     status: Preprint, under review
     pdf: https://arxiv.org/abs/2512.20735
-    note: Co-first author
+    note: First author (equal contribution)
 
   - title: Suppressing Uncertainty in Gaze Estimation
     authors: <strong>Shijing Wang</strong>, Yaping Huang

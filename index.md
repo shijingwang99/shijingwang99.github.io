@@ -22,6 +22,12 @@ I am always open to academic collaboration and discussions. Please find my <a hr
 - **[2024-06]** 🏆 Our team won **1st place** in the Ego4D Looking-at-Me Challenge at **CVPR 2024**.
 - **[2024-02]** *Suppressing Uncertainty in Gaze Estimation* was published at **AAAI 2024**.
 
+## Education
+
+- **[Sep. 2023-present, Ph.D. candidate]** Beijing Jiaotong University, Computer Science and Technology. Supervisor: <a href="https://faculty.bjtu.edu.cn/6124/">Prof. Yaping Huang</a>.
+- **[Sep. 2021-Jun. 2023, M.Eng.]** Beijing Jiaotong University, Computer Science and Technology. Supervisor: <a href="http://faculty.bjtu.edu.cn/8249/">Prof. Liping Jing</a>. Ranked in the top 20% and transferred directly to the Ph.D. program.
+- **[Sep. 2017-Jun. 2021, B.Eng.]** Beijing Jiaotong University, Computer Science and Technology. Ranked in the top 20% and received direct admission to the master's program.
+
 ## Research Interests
 
 - **Human-centered multimodal intelligence:** gaze estimation, gaze following, human attention and intention understanding, social scene understanding.
@@ -38,21 +44,17 @@ I am always open to academic collaboration and discussions. Please find my <a hr
 - **Lenovo Research, Beijing** — Machine Learning Research Intern, Dec. 2023-Jul. 2024
   Worked on cross-dataset gaze estimation and first-person Looking-at-Me recognition; contributed to the winning solution of the CVPR 2024 Ego4D challenge.
 
-## Education
-
-- **[Sep. 2023-present, Ph.D. candidate]** Beijing Jiaotong University, Computer Science and Technology. Supervisor: <a href="https://faculty.bjtu.edu.cn/6124/">Prof. Yaping Huang</a>.
-- **[Sep. 2021-Jun. 2023, M.Eng.]** Beijing Jiaotong University, Computer Science and Technology. Supervisor: <a href="http://faculty.bjtu.edu.cn/8249/">Prof. Liping Jing</a>. Ranked in the top 20% and transferred directly to the Ph.D. program.
-- **[Sep. 2017-Jun. 2021, B.Eng.]** Beijing Jiaotong University, Computer Science and Technology. Ranked in the top 20% and received direct admission to the master's program.
-
 {% include_relative _includes/publications.md %}
 
 ## Projects and Awards
 
 - **Research on Gaze Estimation Generalization**, Fundamental Research Funds for the Central Universities, Principal Investigator, Apr. 2024-Mar. 2026.
+- **China Scholarship Council (CSC) Scholarship**, funded visiting Ph.D. study at the University of Birmingham, Nov. 2025-present.
 - **1st Place**, Ego4D-Ego-Exo4D Challenge, Looking-at-Me Track, CVPR 2024 ([code](https://github.com/KanokphanL/Ego4D_LAM_InternLSTM), [paper](https://arxiv.org/abs/2406.12211)).
 - **First-Class Academic Scholarship**, Beijing Jiaotong University, 2020-2024 (five times).
 - **Outstanding Undergraduate Thesis**, Beijing Jiaotong University, 2021.
 - **National Undergraduate Innovation Training Program**, 2020.
+- **Patents**, two granted Chinese patents: one utility model patent and one design patent (non-computing field).
 
 ## Teaching and Academic Service
 

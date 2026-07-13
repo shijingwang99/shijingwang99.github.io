@@ -11,7 +11,7 @@ selected:
     venue: IEEE TMM submission
     status: Preprint, under review
     pdf: https://arxiv.org/abs/2512.20735
-    note: First author (equal contribution)
+    note: Co-first author (listed first)
 
   - title: Suppressing Uncertainty in Gaze Estimation
     authors: <strong>Shijing Wang</strong>, Yaping Huang

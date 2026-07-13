@@ -28,6 +28,10 @@ I am always open to academic collaboration and discussions. Please find my <a hr
 - **[Sep. 2021-Jun. 2023, M.Eng.]** Beijing Jiaotong University, Computer Science and Technology. Supervisor: <a href="http://faculty.bjtu.edu.cn/8249/">Prof. Liping Jing</a>. Ranked in the top 20% and transferred directly to the Ph.D. program.
 - **[Sep. 2017-Jun. 2021, B.Eng.]** Beijing Jiaotong University, Computer Science and Technology. Ranked in the top 20% and received direct admission to the master's program.
 
+## Patent
+
+- **A Stacked Connector Welding Plate** (一种叠式连接器焊接板), Chinese Utility Model Patent **CN211184400U**, granted in 2020. Inventors: **Shijing Wang**, Xin Gao, Hua Lu, and Yongping Teng. ([patent](https://patents.google.com/patent/CN211184400U/zh))
+
 ## Research Interests
 
 - **Human-centered multimodal intelligence:** gaze estimation, gaze following, human attention and intention understanding, social scene understanding.
@@ -54,7 +58,6 @@ I am always open to academic collaboration and discussions. Please find my <a hr
 - **First-Class Academic Scholarship**, Beijing Jiaotong University, 2020-2024 (five times).
 - **Outstanding Undergraduate Thesis**, Beijing Jiaotong University, 2021.
 - **National Undergraduate Innovation Training Program**, 2020.
-- **Patents**, two granted Chinese patents: one utility model patent and one design patent (non-computing field).
 
 ## Teaching and Academic Service
 

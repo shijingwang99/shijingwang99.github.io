@@ -1,60 +1,83 @@
-main:
+selected:
+  - title: Enhancing Gaze Reasoning in Vision Foundation Models for Gaze Following
+    authors: <strong>Shijing Wang</strong>, Yaping Huang, Chaoqun Cui, David Wong, Yihua Cheng, Alexandros Neophytou, Hyung Jin Chang
+    venue: NeurIPS 2026 submission
+    status: Preprint, under review
+    pdf: https://arxiv.org/abs/2605.22607
+    note: First author
+
+  - title: "VL4Gaze: Unleashing Vision-Language Models for Gaze Following"
+    authors: <strong>Shijing Wang*</strong>, Chaoqun Cui*, Yaping Huang, Hyung Jin Chang, Yihua Cheng
+    venue: ECCV 2026 submission
+    status: Preprint, under review
+    pdf: https://arxiv.org/abs/2512.20735
+    note: Co-first author
+
   - title: Suppressing Uncertainty in Gaze Estimation
-    authors: <strong>Shijing Wang</strong>, Yaping Huang* (*Corresponding author)
-    conference_short: AAAI 2024
-    conference: Association for the Advancement of Artificial Intelligence <strong>(AAAI)</strong>, 2024.
-    pdf: https://arxiv.org/pdf/2412.12890
-    # code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    poster: ./assets/img/shijing_4273_poster_01.png
-    bibtex: ./assets/files/SUGE_AAAI2024.md
-    notes: CCF-A
-    image: ./assets/img/SUGE_AAAI2024.png
+    authors: <strong>Shijing Wang</strong>, Yaping Huang
+    venue: AAAI 2024
+    status: Proceedings of the AAAI Conference on Artificial Intelligence, 38(6), 5581-5589
+    pdf: https://arxiv.org/abs/2412.12890
+    note: First author · CCF-A
 
   - title: Cross-Dataset Gaze Estimation by Evidential Inter-intra Fusion
-    authors: <strong>Shijing Wang</strong>, Yaping Huang*, Jun Xie, Yi Tian, Feng Chen, Zhepeng Wang
-    conference_short: Under review
-    conference: "arXiv preprint arXiv:2409.04766v3"
-    pdf: https://arxiv.org/pdf/2409.04766v3
-    bibtex: ./assets/files/EIF.md
-    notes: Under review
-    image: ./assets/img/EIF_2025.png
+    authors: <strong>Shijing Wang</strong>, Yaping Huang, Jun Xie, Yi Tian, Feng Chen, Zhepeng Wang
+    venue: IEEE THMS submission
+    status: Preprint, under review
+    pdf: https://arxiv.org/abs/2409.04766
+    note: First author
 
-co_author: 
-  - title: "Vmf loss: Exploring a scattered intra-class hypersphere for few-shot learning"
-    authors: Xin Liu, <strong>Shijing Wang</strong>, Kairui Zhou, Yilin Lyu, Mingyang Song, Liping Jing*, Tieyong Zeng, Jian Yu
-    conference_short: ECML-PKDD 2023
-    conference: Joint European Conference on Machine Learning and Knowledge Discovery in Databases <strong>(ECML-PKDD)</strong>, 2023.
+  - title: "See Through the Noise: Improving Domain Generalization in Gaze Estimation"
+    authors: Yanming Peng, <strong>Shijing Wang</strong>, Yaping Huang, Yi Tian
+    venue: CVPR 2026
+    status: Accepted
+    pdf: https://arxiv.org/abs/2604.16562
+    note: CCF-A
+
+  - title: "CineSRD: Leveraging Visual, Acoustic, and Linguistic Cues for Open-World Visual Media Speaker Diarization"
+    authors: Liangbin Huang*, Xiaohua Liao*, Chaoqun Cui*, <strong>Shijing Wang</strong>, Zhaolong Huang, Yanlong Du, Wenji Mao
+    venue: CVPR 2026
+    status: Accepted
+    pdf: https://arxiv.org/abs/2603.16966
+    note: CCF-A
+
+additional:
+  - title: Fine-grained Video Dubbing Duration Alignment with Segment Supervised Preference Optimization
+    authors: Chaoqun Cui, Liangbin Huang, <strong>Shijing Wang</strong>, Zhe Tong, Zhaolong Huang, Xiao Zeng, Xiaofeng Liu
+    venue: ACL 2025
+    status: Main conference, pp. 4524-4546
+    pdf: https://dblp.org/rec/conf/acl/CuiHWTHZL25
+    note: CCF-A
+
+  - title: "From Utterance to Vividity: Training Expressive Subtitle Translation LLM via Adaptive Local Preference Optimization"
+    authors: Chaoqun Cui, <strong>Shijing Wang</strong>, Liangbin Huang, Qingqing Gu, Zhaolong Huang, Xiao Zeng, Wenji Mao
+    venue: ICLR 2026
+    status: Accepted
+    pdf: https://arxiv.org/abs/2602.01068
+
+  - title: "Hermes the Polyglot: A Unified Framework to Enhance Expressiveness for Multimodal Interlingual Subtitling"
+    authors: Chaoqun Cui, <strong>Shijing Wang</strong>, Liangbin Huang, Qingqing Gu, Zhaolong Huang, Xiao Zeng, Wenji Mao
+    venue: WWW 2026
+    status: Accepted, pp. 7068-7079
+    pdf: https://arxiv.org/abs/2602.00597
+    note: CCF-A
+
+  - title: "Agentic Reward Modeling: Verifying GUI Agent via Online Proactive Interaction"
+    authors: Chaoqun Cui, Jing Huang, <strong>Shijing Wang</strong>, Liming Zheng, Qingchao Kong, Zhixiong Zeng
+    venue: NeurIPS 2026 submission
+    status: Preprint, under review
+    pdf: https://arxiv.org/abs/2602.00575
+
+  - title: "vMF Loss: Exploring a Scattered Intra-class Hypersphere for Few-shot Learning"
+    authors: Xin Liu, <strong>Shijing Wang</strong>, Kairui Zhou, Yilin Lyu, Mingyang Song, Liping Jing, Tieyong Zeng, Jian Yu
+    venue: ECML-PKDD 2023
+    status: Research Track, pp. 454-470
     pdf: https://doi.org/10.1007/978-3-031-43415-0_27
-    code: https://github.com/ShijingWang9962/vMF-Loss-Exploring-a-Scatter-Intra-class-Hypersphere-for-Few-shot-Learning
-    bibtex: ./assets/files/PKDD_2023.md
-    notes: CCF-B
-    image: ./assets/img/PKDD_2023.png
+    note: CCF-B
 
-  - title: 序列标签推荐 (Sequencial Tag Recommendation)
-    authors: Bing Liu, Pengyu Xu, Sijin Lu, <strong>Shijing Wang</strong>, Hongjian Sun, Liping Jing*
-    conference_short: 计算机科学
-    conference: 计算机科学 (Computer Science).
-    pdf: https://arxiv.org/pdf/2310.05423
-    bibtex: ./assets/files/ComputerScience_2024.md
-    notes: Chinese CCF-B Accepted but not yet published
-    image: ./assets/img/ComputerScience_2024.png
-    
-colleagues_paper: 
-
-  - title: Uncertainty Inspired Autism SpectrumDisorder Screening
-    authors: Ying Zhang, Yaping Huang*, Jiansong Qi, Sihui Zhang, Mei Tian,and Yi Tian
-    conference_short: MICCAI 2023
-    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
-    pdf: https://link.springer.com/chapter/10.1007/978-3-031-43904-9_39
-    bibtex: ./assets/files/MICCAI_2023.md
-    notes: CCF-B
-    image: ./assets/img/MICCAI_2023.png
-
-  - title: Visual Question Answering Driven Eye Tracking Paradigm for Identifying Children with Autism Spectrum Disorder
-    authors: Jiansong Qi, Yaping Huang*, Ying Zhang, Sihui Zhang, Mei Tian, Yi Tian, Fanchao Meng, Lin Guan, and Tianyi Chang
-    conference_short: ACM MM 2024
-    conference: ACM International Conference on Multimedia <strong>(ACM MM)</strong>, 2024.
-    pdf: https://dl.acm.org/doi/10.1145/3664647.3681188
-    bibtex: ./assets/files/ACMMM_2024.md
-    notes: CCF-A
-    image: ./assets/img/ACMMM_2024.png
+  - title: PCIE_LAM Solution for Ego4D Looking At Me Challenge
+    authors: Kanokphan Lertniphonphan, Jun Xie, Yaqing Meng, <strong>Shijing Wang</strong>, Feng Chen, Zhepeng Wang
+    venue: CVPR 2024 Challenge
+    status: 1st place in the Ego4D Looking-at-Me Track
+    pdf: https://arxiv.org/abs/2406.12211
+    note: Challenge winner

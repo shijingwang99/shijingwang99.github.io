@@ -1,21 +1,21 @@
 # Basic Information 
 title: Shijing Wang
-position: Ph.D. Student in Computer Science
-affiliation: Beijing Jiaotong University, China
+position: Ph.D. Candidate in Computer Science
+affiliation: Beijing Jiaotong University | University of Birmingham
 affiliation_link: https://en.bjtu.edu.cn/AboutBJTU_20161201183113092917/gljg_20161201183113092917/index.htm
 email: shijingwang@bjtu.edu.cn
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
 keywords: Shijing Wang's HomePage
-description: This is the personal homepage of Shijing Wang, a Ph.D. student in Computer Science at Beijing Jiaotong University.
-canonical: https://minimal-light-theme.yliu.me/
+description: Shijing Wang is a Ph.D. candidate working on multimodal foundation models, human gaze understanding, reliable machine learning, and human-computer interaction.
+canonical: https://shijingwang9962.github.io/
 
 # Links 
 # If you don't need one of them, you may delete the corresponding line.
-# google_scholar: https://scholar.google.com/citations?hl=zh-CN&user=EZuRqCIAAAAJ
-# cv_link: assets/files/curriculum_vitae.pdf
-# github_link: https://github.com/ShijingWang9962
+google_scholar: https://scholar.google.com/citations?hl=en&user=EZuRqCIAAAAJ
+cv_link: assets/files/shijingwang_CV.pdf
+github_link: https://github.com/ShijingWang9962
 # linkedin: https://www.linkedin.com/
 # twitter: https://twitter.com/
 
@@ -35,7 +35,7 @@ auto_dark_mode: true
 
 # Font
 # You can use this option to choose between Serif or Sans Serif fonts.
-font: "Serif" # or "Sans Serif"
+font: "Sans Serif" # or "Serif"
 
 # Google Analytics ID
 # Please remove this if you don't use Google Analytics

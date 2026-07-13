@@ -58,8 +58,3 @@ I am always open to academic collaboration and discussions. Please find my <a hr
 - **First-Class Academic Scholarship**, Beijing Jiaotong University, 2020-2024 (five times).
 - **Outstanding Undergraduate Thesis**, Beijing Jiaotong University, 2021.
 - **National Undergraduate Innovation Training Program**, 2020.
-
-## Teaching and Academic Service
-
-- **Teaching interests:** Artificial Intelligence, Machine Learning, Deep Learning, Computer Vision, Multimodal Large Models, and Human-Computer Interaction.
-- **Mentoring interests:** research problem formulation, reproducible experimentation, academic writing, and project-based learning in multimodal AI.

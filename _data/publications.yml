@@ -1,15 +1,15 @@
 selected:
   - title: Enhancing Gaze Reasoning in Vision Foundation Models for Gaze Following
     authors: <strong>Shijing Wang</strong>, Yaping Huang, Chaoqun Cui, David Wong, Yihua Cheng, Alexandros Neophytou, Hyung Jin Chang
-    venue: NeurIPS 2026 submission
-    status: Preprint, under review
+    venue: Under Review
+    status: Preprint
     pdf: https://arxiv.org/abs/2605.22607
     note: First author
 
   - title: "VL4Gaze: Unleashing Vision-Language Models for Gaze Following"
     authors: <strong>Shijing Wang*</strong>, Chaoqun Cui*, Yaping Huang, Hyung Jin Chang, Yihua Cheng
-    venue: IEEE TMM submission
-    status: Preprint, under review
+    venue: Under Review
+    status: Preprint
     pdf: https://arxiv.org/abs/2512.20735
     note: Co-first author (listed first)
 
@@ -22,8 +22,8 @@ selected:
 
   - title: Cross-Dataset Gaze Estimation by Evidential Inter-intra Fusion
     authors: <strong>Shijing Wang</strong>, Yaping Huang, Jun Xie, Yi Tian, Feng Chen, Zhepeng Wang
-    venue: IEEE THMS submission
-    status: Preprint, under review
+    venue: Under Review
+    status: Preprint
     pdf: https://arxiv.org/abs/2409.04766
     note: First author
 
@@ -64,8 +64,8 @@ additional:
 
   - title: "Agentic Reward Modeling: Verifying GUI Agent via Online Proactive Interaction"
     authors: Chaoqun Cui, Jing Huang, <strong>Shijing Wang</strong>, Liming Zheng, Qingchao Kong, Zhixiong Zeng
-    venue: NeurIPS 2026 submission
-    status: Preprint, under review
+    venue: Under Review
+    status: Preprint
     pdf: https://arxiv.org/abs/2602.00575
 
   - title: "vMF Loss: Exploring a Scattered Intra-class Hypersphere for Few-shot Learning"

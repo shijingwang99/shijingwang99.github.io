@@ -52,8 +52,9 @@ blockquote { background: var(--global-bg-color); border-left: 2px solid var(--gl
 
 .publications ol.bibliography li .title { font-weight: bolder; }
 
-.publications .ccf-rank {
-  color: #b23b2a;
+.publications .ccf-rank,
+.publications em .ccf-rank {
+  color: #b23b2a !important;
   font-weight: 700;
   font-style: normal;
 }

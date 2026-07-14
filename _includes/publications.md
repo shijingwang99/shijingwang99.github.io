@@ -1,8 +1,8 @@
-<h2 id="publications" style="margin: 2px 0 15px;">Publications</h2>
+<h2 id="publications" class="publications-title">Publications</h2>
 
-<p><strong>* denotes equal contribution. Shijing Wang is highlighted in bold.</strong></p>
+<p class="publications-note"><strong>* denotes equal contribution. Shijing Wang is highlighted in bold.</strong></p>
 
-<div class="publications">
+<div class="publications publications-list">
 {% for paper in site.data.publications.selected %}
   <div class="pub-entry" style="margin-bottom: 16px;">
     <div><strong>[{{ paper.venue }}]</strong> <a href="{{ paper.pdf }}" target="_blank">{{ paper.title }}</a></div>

@@ -52,6 +52,12 @@ blockquote { background: var(--global-bg-color); border-left: 2px solid var(--gl
 
 .publications ol.bibliography li .title { font-weight: bolder; }
 
+.publications .ccf-rank {
+  color: #b23b2a;
+  font-weight: 700;
+  font-style: normal;
+}
+
 .publications ol.bibliography li .author a { border-bottom: 1px var(--global-theme-color); }
 
 .publications ol.bibliography li .author a:hover { border-bottom-style: solid; text-decoration: none; }

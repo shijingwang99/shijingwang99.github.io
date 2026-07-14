@@ -24,7 +24,7 @@ I am always open to academic collaboration and discussions. Please find my <a hr
 
 ## Education
 
-- **[Sep. 2021-present, integrated M.Eng.-Ph.D. program]** Beijing Jiaotong University, Computer Science and Technology. Supervisors: <a href="http://faculty.bjtu.edu.cn/8249/">Prof. Liping Jing</a> (M.Eng. stage) and <a href="https://faculty.bjtu.edu.cn/6124/">Prof. Yaping Huang</a> (Ph.D. stage).
+- **[Sep. 2021-present, integrated M.Eng.-Ph.D. program]** Beijing Jiaotong University, Computer Science and Technology. Supervisors: <a href="http://faculty.bjtu.edu.cn/8249/">Prof. Liping Jing (景丽萍)</a> (M.Eng. stage) and <a href="https://faculty.bjtu.edu.cn/6124/">Prof. Yaping Huang</a> (Ph.D. stage).
 - **[Sep. 2017-Jun. 2021, B.Eng.]** Beijing Jiaotong University, Computer Science and Technology. Ranked in the top 20% and received direct admission to the master's program.
 
 ## Research Interests

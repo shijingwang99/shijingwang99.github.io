@@ -2,68 +2,68 @@ selected:
   - title: Enhancing Gaze Reasoning in Vision Foundation Models for Gaze Following
     authors: <strong>Shijing Wang</strong>, Yaping Huang, Chaoqun Cui, David Wong, Yihua Cheng, Alexandros Neophytou, Hyung Jin Chang
     venue: Under Review
-    status: Preprint
+    status: "arXiv: 2605.22607"
     pdf: https://arxiv.org/abs/2605.22607
 
   - title: "VL4Gaze: Unleashing Vision-Language Models for Gaze Following"
     authors: <strong>Shijing Wang*</strong>, Chaoqun Cui*, Yaping Huang, Hyung Jin Chang, Yihua Cheng
     venue: Under Review
-    status: Preprint
+    status: "arXiv: 2512.20735"
     pdf: https://arxiv.org/abs/2512.20735
 
   - title: Suppressing Uncertainty in Gaze Estimation
     authors: <strong>Shijing Wang</strong>, Yaping Huang
     venue: AAAI 2024
-    status: Proceedings of the AAAI Conference on Artificial Intelligence, 38(6), 5581-5589
+    status: 'Proceedings of the AAAI Conference on Artificial Intelligence, 38(6), 5581-5589 · <span class="ccf-rank">CCF-A</span>'
     pdf: https://arxiv.org/abs/2412.12890
 
   - title: Cross-Dataset Gaze Estimation by Evidential Inter-intra Fusion
     authors: <strong>Shijing Wang</strong>, Yaping Huang, Jun Xie, Yi Tian, Feng Chen, Zhepeng Wang
     venue: Under Review
-    status: Preprint
+    status: "arXiv: 2409.04766"
     pdf: https://arxiv.org/abs/2409.04766
 
   - title: "See Through the Noise: Improving Domain Generalization in Gaze Estimation"
     authors: Yanming Peng, <strong>Shijing Wang</strong>, Yaping Huang, Yi Tian
     venue: CVPR 2026
-    status: Accepted
+    status: 'Accepted · <span class="ccf-rank">CCF-A</span>'
     pdf: https://arxiv.org/abs/2604.16562
 
   - title: "CineSRD: Leveraging Visual, Acoustic, and Linguistic Cues for Open-World Visual Media Speaker Diarization"
     authors: Liangbin Huang*, Xiaohua Liao*, Chaoqun Cui*, <strong>Shijing Wang</strong>, Zhaolong Huang, Yanlong Du, Wenji Mao
     venue: CVPR 2026
-    status: Accepted
+    status: 'Accepted · <span class="ccf-rank">CCF-A</span>'
     pdf: https://arxiv.org/abs/2603.16966
 
 additional:
   - title: Fine-grained Video Dubbing Duration Alignment with Segment Supervised Preference Optimization
     authors: Chaoqun Cui, Liangbin Huang, <strong>Shijing Wang</strong>, Zhe Tong, Zhaolong Huang, Xiao Zeng, Xiaofeng Liu
     venue: ACL 2025
-    status: Main conference, pp. 4524-4546
+    status: 'Main conference, pp. 4524-4546 · <span class="ccf-rank">CCF-A</span>'
     pdf: https://dblp.org/rec/conf/acl/CuiHWTHZL25
 
   - title: "From Utterance to Vividity: Training Expressive Subtitle Translation LLM via Adaptive Local Preference Optimization"
     authors: Chaoqun Cui, <strong>Shijing Wang</strong>, Liangbin Huang, Qingqing Gu, Zhaolong Huang, Xiao Zeng, Wenji Mao
     venue: ICLR 2026
-    status: Accepted
+    status: 'Accepted · <span class="ccf-rank">CCF-A</span>'
     pdf: https://arxiv.org/abs/2602.01068
 
   - title: "Hermes the Polyglot: A Unified Framework to Enhance Expressiveness for Multimodal Interlingual Subtitling"
     authors: Chaoqun Cui, <strong>Shijing Wang</strong>, Liangbin Huang, Qingqing Gu, Zhaolong Huang, Xiao Zeng, Wenji Mao
     venue: WWW 2026
-    status: Accepted, pp. 7068-7079
+    status: 'Accepted, pp. 7068-7079 · <span class="ccf-rank">CCF-A</span>'
     pdf: https://arxiv.org/abs/2602.00597
 
   - title: "Agentic Reward Modeling: Verifying GUI Agent via Online Proactive Interaction"
     authors: Chaoqun Cui, Jing Huang, <strong>Shijing Wang</strong>, Liming Zheng, Qingchao Kong, Zhixiong Zeng
     venue: Under Review
-    status: Preprint
+    status: "arXiv: 2602.00575"
     pdf: https://arxiv.org/abs/2602.00575
 
   - title: "vMF Loss: Exploring a Scattered Intra-class Hypersphere for Few-shot Learning"
     authors: Xin Liu, <strong>Shijing Wang</strong>, Kairui Zhou, Yilin Lyu, Mingyang Song, Liping Jing, Tieyong Zeng, Jian Yu
     venue: ECML-PKDD 2023
-    status: Research Track, pp. 454-470
+    status: 'Research Track, pp. 454-470 · <span class="ccf-rank">CCF-B</span>'
     pdf: https://doi.org/10.1007/978-3-031-43415-0_27
 
   - title: PCIE_LAM Solution for Ego4D Looking At Me Challenge

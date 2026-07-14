@@ -1,13 +1,13 @@
 selected:
   - title: Enhancing Gaze Reasoning in Vision Foundation Models for Gaze Following
     authors: <strong>Shijing Wang</strong>, Yaping Huang, Chaoqun Cui, David Wong, Yihua Cheng, Alexandros Neophytou, Hyung Jin Chang
-    venue: Under Review
+    venue: arXiv
     status: "arXiv: 2605.22607"
     pdf: https://arxiv.org/abs/2605.22607
 
   - title: "VL4Gaze: Unleashing Vision-Language Models for Gaze Following"
     authors: <strong>Shijing Wang*</strong>, Chaoqun Cui*, Yaping Huang, Hyung Jin Chang, Yihua Cheng
-    venue: Under Review
+    venue: arXiv
     status: "arXiv: 2512.20735"
     pdf: https://arxiv.org/abs/2512.20735
 
@@ -19,7 +19,7 @@ selected:
 
   - title: Cross-Dataset Gaze Estimation by Evidential Inter-intra Fusion
     authors: <strong>Shijing Wang</strong>, Yaping Huang, Jun Xie, Yi Tian, Feng Chen, Zhepeng Wang
-    venue: Under Review
+    venue: arXiv
     status: "arXiv: 2409.04766"
     pdf: https://arxiv.org/abs/2409.04766
 
@@ -56,7 +56,7 @@ additional:
 
   - title: "Agentic Reward Modeling: Verifying GUI Agent via Online Proactive Interaction"
     authors: Chaoqun Cui, Jing Huang, <strong>Shijing Wang</strong>, Liming Zheng, Qingchao Kong, Zhixiong Zeng
-    venue: Under Review
+    venue: arXiv
     status: "arXiv: 2602.00575"
     pdf: https://arxiv.org/abs/2602.00575
 

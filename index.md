@@ -4,9 +4,9 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. candidate in Computer Science and Technology at <a href="https://en.bjtu.edu.cn/research_n/res_1/index.htm">Beijing Jiaotong University (BJTU)</a>, supervised by <a href="https://faculty.bjtu.edu.cn/6124/">Prof. Yaping Huang</a>. Since November 2025, I have been a CSC-funded visiting Ph.D. student at the <a href="https://www.birmingham.ac.uk/schools/computer-science">University of Birmingham</a>, collaborating on multimodal foundation models, human gaze understanding, and human-computer interaction.
+I am a Ph.D. candidate in Computer Science and Technology at <a href="https://en.bjtu.edu.cn/research_n/res_1/index.htm">Beijing Jiaotong University (BJTU)</a>, supervised by <a href="https://faculty.bjtu.edu.cn/6124/">Prof. Yaping Huang</a>. Since November 2025, I have been a CSC-funded visiting Ph.D. student at the <a href="https://www.birmingham.ac.uk/schools/computer-science">University of Birmingham</a>, collaborating on multimodal foundation models and human gaze reasoning.
 
-My research focuses on building reliable multimodal AI systems that understand human attention, intention, and social interaction. I study gaze estimation and gaze following, uncertainty-aware and domain-generalizable learning, and vision-language/foundation models for human-centered scene understanding.
+My research focuses on multimodal models for human gaze understanding. I study gaze estimation and gaze following, uncertainty-aware and domain-generalizable learning, and vision-language/foundation models for attention and intention reasoning.
 
 I am always open to academic collaboration and discussions. Please find my <a href="assets/files/shijingwang_CV.pdf" target="_blank">Chinese academic CV</a>, <a href="https://scholar.google.com/citations?user=EZuRqCIAAAAJ&hl=en" target="_blank">Google Scholar</a>, and <a href="https://dblp.org/pid/336/5961.html" target="_blank">DBLP</a> profiles here.
 
@@ -24,16 +24,14 @@ I am always open to academic collaboration and discussions. Please find my <a hr
 
 ## Education
 
-- **[Sep. 2023-present, Ph.D. candidate]** Beijing Jiaotong University, Computer Science and Technology. Supervisor: <a href="https://faculty.bjtu.edu.cn/6124/">Prof. Yaping Huang</a>.
-- **[Sep. 2021-Jun. 2023, M.Eng.]** Beijing Jiaotong University, Computer Science and Technology. Supervisor: <a href="http://faculty.bjtu.edu.cn/8249/">Prof. Liping Jing</a>. Ranked in the top 20% and transferred directly to the Ph.D. program.
+- **[Sep. 2021-present, integrated M.Eng.-Ph.D. program]** Beijing Jiaotong University, Computer Science and Technology. Supervisors: <a href="http://faculty.bjtu.edu.cn/8249/">Prof. Liping Jing</a> (M.Eng. stage) and <a href="https://faculty.bjtu.edu.cn/6124/">Prof. Yaping Huang</a> (Ph.D. stage).
 - **[Sep. 2017-Jun. 2021, B.Eng.]** Beijing Jiaotong University, Computer Science and Technology. Ranked in the top 20% and received direct admission to the master's program.
 
 ## Research Interests
 
-- **Human-centered multimodal intelligence:** gaze estimation, gaze following, human attention and intention understanding, social scene understanding.
-- **Vision-language and foundation models:** multimodal instruction tuning, visual reasoning, parameter-efficient adaptation, preference optimization.
-- **Reliable machine learning:** uncertainty estimation, label-noise robustness, domain generalization, evidential learning.
-- **Human-computer interaction:** first-person interaction understanding, visual attention modeling, multimodal agents and digital humans.
+- **Gaze perception and visual attention:** gaze estimation, gaze following, attention target and intention understanding.
+- **Vision-language and foundation models:** multimodal instruction tuning, visual reasoning, and parameter-efficient adaptation.
+- **Reliable machine learning:** uncertainty estimation, label-noise robustness, domain generalization, and evidential learning.
 
 ## Research Experience
 

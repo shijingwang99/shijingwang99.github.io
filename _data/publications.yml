@@ -4,42 +4,36 @@ selected:
     venue: Under Review
     status: Preprint
     pdf: https://arxiv.org/abs/2605.22607
-    note: First author
 
   - title: "VL4Gaze: Unleashing Vision-Language Models for Gaze Following"
     authors: <strong>Shijing Wang*</strong>, Chaoqun Cui*, Yaping Huang, Hyung Jin Chang, Yihua Cheng
     venue: Under Review
     status: Preprint
     pdf: https://arxiv.org/abs/2512.20735
-    note: Co-first author (listed first)
 
   - title: Suppressing Uncertainty in Gaze Estimation
     authors: <strong>Shijing Wang</strong>, Yaping Huang
     venue: AAAI 2024
     status: Proceedings of the AAAI Conference on Artificial Intelligence, 38(6), 5581-5589
     pdf: https://arxiv.org/abs/2412.12890
-    note: First author · CCF-A
 
   - title: Cross-Dataset Gaze Estimation by Evidential Inter-intra Fusion
     authors: <strong>Shijing Wang</strong>, Yaping Huang, Jun Xie, Yi Tian, Feng Chen, Zhepeng Wang
     venue: Under Review
     status: Preprint
     pdf: https://arxiv.org/abs/2409.04766
-    note: First author
 
   - title: "See Through the Noise: Improving Domain Generalization in Gaze Estimation"
     authors: Yanming Peng, <strong>Shijing Wang</strong>, Yaping Huang, Yi Tian
     venue: CVPR 2026
     status: Accepted
     pdf: https://arxiv.org/abs/2604.16562
-    note: CCF-A
 
   - title: "CineSRD: Leveraging Visual, Acoustic, and Linguistic Cues for Open-World Visual Media Speaker Diarization"
     authors: Liangbin Huang*, Xiaohua Liao*, Chaoqun Cui*, <strong>Shijing Wang</strong>, Zhaolong Huang, Yanlong Du, Wenji Mao
     venue: CVPR 2026
     status: Accepted
     pdf: https://arxiv.org/abs/2603.16966
-    note: CCF-A
 
 additional:
   - title: Fine-grained Video Dubbing Duration Alignment with Segment Supervised Preference Optimization
@@ -47,7 +41,6 @@ additional:
     venue: ACL 2025
     status: Main conference, pp. 4524-4546
     pdf: https://dblp.org/rec/conf/acl/CuiHWTHZL25
-    note: CCF-A
 
   - title: "From Utterance to Vividity: Training Expressive Subtitle Translation LLM via Adaptive Local Preference Optimization"
     authors: Chaoqun Cui, <strong>Shijing Wang</strong>, Liangbin Huang, Qingqing Gu, Zhaolong Huang, Xiao Zeng, Wenji Mao
@@ -60,7 +53,6 @@ additional:
     venue: WWW 2026
     status: Accepted, pp. 7068-7079
     pdf: https://arxiv.org/abs/2602.00597
-    note: CCF-A
 
   - title: "Agentic Reward Modeling: Verifying GUI Agent via Online Proactive Interaction"
     authors: Chaoqun Cui, Jing Huang, <strong>Shijing Wang</strong>, Liming Zheng, Qingchao Kong, Zhixiong Zeng
@@ -73,11 +65,9 @@ additional:
     venue: ECML-PKDD 2023
     status: Research Track, pp. 454-470
     pdf: https://doi.org/10.1007/978-3-031-43415-0_27
-    note: CCF-B
 
   - title: PCIE_LAM Solution for Ego4D Looking At Me Challenge
     authors: Kanokphan Lertniphonphan, Jun Xie, Yaqing Meng, <strong>Shijing Wang</strong>, Feng Chen, Zhepeng Wang
     venue: CVPR 2024 Challenge
     status: 1st place in the Ego4D Looking-at-Me Track
     pdf: https://arxiv.org/abs/2406.12211
-    note: Challenge winner

@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. candidate in Computer Science and Technology at <a href="https://en.bjtu.edu.cn/research_n/res_1/index.htm">Beijing Jiaotong University (BJTU)</a>, supervised by <a href="https://faculty.bjtu.edu.cn/6124/">Prof. Yaping Huang</a>. Since November 2025, I have been a CSC-funded visiting Ph.D. student at the <a href="https://www.birmingham.ac.uk/schools/computer-science">University of Birmingham</a>, collaborating on multimodal foundation models and human gaze reasoning.
+I am a Ph.D. candidate in Computer Science and Technology at <a href="https://en.bjtu.edu.cn/research_n/res_1/index.htm">Beijing Jiaotong University (BJTU)</a>, supervised by <a href="https://faculty.bjtu.edu.cn/6124/">Prof. Yaping Huang</a>. Since November 2025, I have been a CSC-funded visiting Ph.D. student at the <a href="https://www.birmingham.ac.uk/schools/computer-science">University of Birmingham</a>, supervised by <a href="https://cvlab-uob.github.io/">Prof. Hyung Jin Chang</a>, working on multimodal foundation models and human gaze reasoning.
 
 My research focuses on multimodal models for human gaze understanding. I study gaze estimation and gaze following, uncertainty-aware and domain-generalizable learning, and vision-language/foundation models for attention and intention reasoning.
 

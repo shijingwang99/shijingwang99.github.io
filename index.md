@@ -13,7 +13,6 @@ I am always open to academic collaboration and discussions. Please find my <a hr
 ## News
 
 - **[2026-10]** 🔥 [*Enhancing Gaze Reasoning in Vision Foundation Models for Gaze Following*](https://arxiv.org/abs/2605.22607) and [*Agentic Reward Modeling: Verifying GUI Agent via Progressive Trajectory-Grounded Interaction*](https://arxiv.org/abs/2602.00575) have been accepted to **NeurIPS 2026**.
-- **[2026-05]** 🔥 A new preprint, *Enhancing Gaze Reasoning in Vision Foundation Models for Gaze Following*, is available on [arXiv](https://arxiv.org/abs/2605.22607).
 - **[2026-04]** 🔥 *See Through the Noise: Improving Domain Generalization in Gaze Estimation* is accepted to **CVPR 2026**.
 - **[2026-03]** 🔥 *CineSRD: Leveraging Visual, Acoustic, and Linguistic Cues for Open-World Visual Media Speaker Diarization* is accepted to **CVPR 2026**.
 - **[2026-02]** 🔥 *Hermes the Polyglot* is accepted to **The Web Conference (WWW) 2026**, and *From Utterance to Vividity* is accepted to **ICLR 2026**.
